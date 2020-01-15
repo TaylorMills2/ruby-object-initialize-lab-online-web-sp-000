@@ -12,6 +12,6 @@ def breed
   end
 end
 
-lassie = Dog.new
+lassie = Dog.new("Mutt")
 
 lassie.breed
