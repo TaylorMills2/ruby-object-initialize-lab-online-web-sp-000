@@ -17,3 +17,5 @@ fido = Dog.new("fido")
 fido = Dog.new(“fido”, "Pug")
 
 fido.breed
+
+lassie = Dog.new("Mutt")
