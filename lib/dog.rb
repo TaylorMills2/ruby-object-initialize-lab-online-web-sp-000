@@ -13,6 +13,6 @@ def breed
 end
 
 
-lassie = Dog.new(“Mutt”)
+Fido = Dog.new(“Fido”, "Pug")
 
 lassie.breed
