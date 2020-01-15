@@ -13,6 +13,3 @@ def name
 end
 
 
-Beyonce = Person.new(“Collie”)
-
-lassie.breed
