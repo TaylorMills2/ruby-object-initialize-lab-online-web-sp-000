@@ -1,19 +1,18 @@
-class Dog 
-   def initialize (breed)
-     @breed = breed
+class Person 
+   def initialize (name)
+     @name = name
    end
 
-  def breed=(breed)
-     @breed = breed
+  def name=(name)
+     @name = name
    end
 
-def breed
-  @breed
+def name
+  @name
   end
 end
 
-Call the #new like this:
 
-lassie = Dog.new(“Collie”)
+Beyonce = Person.new(“Collie”)
 
 lassie.breed
