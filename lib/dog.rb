@@ -13,11 +13,7 @@ def breed
 end
 
 
-fido = Dog.new
-fido = Dog.new(“fido”, "Pug")
-
-fido.breed
-
-lassie = Dog.new("Mutt")
+lassie = Dog.new
+lassie = Dog.new(“Mutt")
 
 lassie.breed
